@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 
 
 #Contact me
-<a href="#" class="button icon search">Search</a>
+
+
+<ul class="button-group">
+    <li><a href="#" class="button primary pill">Linkdin</a></li>
+    <li><a href="#" class="button pill">Facebook</a></li>
+    <li><a href="#" class="button pill">linkdin</a></li>
+    <li><a href="#" class="button pill">blah</a></li>
+</ul>
 
